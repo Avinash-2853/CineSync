@@ -66,7 +66,7 @@ streamlit run app.py
 - Advanced sentiment analysis  
 
 ## License  
-This project is licensed under the MIT License.  
+Link of project.  
 ```
 
-This version keeps it clean and professional. Let me know if you need any edits.
+https://cinesync.streamlit.app/
